@@ -51,7 +51,7 @@ defaults:
     values:
       layout: "post"
       author: "Ahao"
-      header-img: "img/fantasy.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/bg4.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
