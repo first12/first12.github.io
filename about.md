@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "A yong who like anime"
-header-img: "img/bg2.jpg"
+header-img: "img/bg13.jpg"
 ---
 
 <center>
