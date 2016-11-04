@@ -1,7 +1,7 @@
 # Site settings
 title: Ahao
 header-img: "img/autumn2.jpg"
-description: "在遙遠的地方 一切虔誠終必相遇"  
+description: "人生在勤，不索何获？"  
 baseurl: ""
 url: "http://first12.github.io"  
 #url: "http://localhost:4000"
@@ -16,12 +16,12 @@ owner:
 gavatar: http://dreamofbook.qiniudn.com/Az..png
 favicon: img/favicon.ico
 
-douban_username: Azeril
-twitter_username: Azeril_Lapland  
-github_username: Azeril  
-facebook_username: Azeril_Lapland  
-weibo_username: Azeril  
-zhihu_username: Azeril  
+douban_username: 
+twitter_username:   
+github_username: first12  
+facebook_username:   
+weibo_username:   
+zhihu_username:   
 
 # Build settings  
 # use Github Flavored Markdown !important  
