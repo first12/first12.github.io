@@ -2,7 +2,7 @@
 layout: page
 title: "About"
 description: "A yong who like anime"
-header-img: "img/plane.jpg"
+header-img: "img/bg2.jpg"
 ---
 
 <center>
@@ -12,12 +12,12 @@ header-img: "img/plane.jpg"
 
 ## 关于我
 
-我是温豪，是一名 Javascript 热爱者，编写代码是我的乐趣。
+>我是温豪，是一名 Javascript 热爱者，编写代码是我的乐趣。
 
 
 ## My friend
 
-[鬼娃娃]:Guiwawa(https://github.com/Guiwawa).
+[Guiwawa](https://github.com/Guiwawa).
 
 <center>
     <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
