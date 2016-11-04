@@ -1,6 +1,6 @@
 # Site settings
 title: Ahao
-header-img: "img/autumn2.jpg"
+header-img: "img/bg4.jpg"
 description: "人生在勤，不索何获？"  
 baseurl: ""
 url: "http://first12.github.io"  
@@ -51,7 +51,7 @@ defaults:
     values:
       layout: "post"
       author: "Ahao"
-      header-img: "img/bg4.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/bg11.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
