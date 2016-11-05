@@ -6,7 +6,7 @@ header-img: "img/bg13.jpg"
 ---
 
 <center>
-    <p><img src="img/first12.png" align="center"></p>
+    <p><img src="img/first12.png" style="border: 2px solid orange" align="center"></p>
 </center>
 
 
