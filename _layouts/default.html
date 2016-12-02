@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+<link rel="stylesheet" href="../css/nprogress.css">
+<script src="../js/nprogress.css"></script>
 
 {% include head.html %}
 
 <body ontouchstart="">
+
 
     {% include nav.html %}
 
     {{ content }}
   
     {% include footer.html %}
-
+<script>
+  document.onreadystatechange = function(){
+    if(document.readyState == "Loaded"){
+      NProgress.start();
+    }else if(document.readyState == "complete"){
+      NProgress.done();
+    }
+  }
+</script>
 </body>
 
 </html>
